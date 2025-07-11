@@ -162,7 +162,7 @@ nav i {
   gap: 2vh;
   margin-top: 10vh;
   width: 23vw;
-  height: 60vh;
+  height: 67vh;
   border-radius: 20px;
   background-color: #fff;
 }
@@ -202,4 +202,13 @@ nav i {
   position: absolute;
   width: 20vw;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
+}
+.spri {
+  background: linear-gradient(150deg, rgb(38, 191, 211), rgb(16, 211, 97));
+}
+.fant {
+  background: linear-gradient(150deg, rgb(240, 220, 183), rgb(240, 122, 13));
+}
+.cok {
+  background: linear-gradient(150deg, red, rgb(233, 180, 180));
 }
