@@ -214,13 +214,13 @@ nav i {
 }
 
 .drop {
-  animation: drop 1s ease-in 0.5s;
+  animation: drop 1s ease 0.5s;
 }
 
 @keyframes drop {
   from {
-    opacity: 0;
-    transform: translateY(-30px);
+    opacity: 0.5;
+    transform: translateY(-100px);
   }
   to {
     opacity: 1;
