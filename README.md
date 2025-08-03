@@ -12,35 +12,35 @@ A visually engaging and animated landing page inspired by Fanta branding, create
 
 ## 📸 Website Preview
 
-### 🖥️ Desktop View  
-![Desktop Preview](./preview/desktop-preview.png)
+### 🖥️ Desktop View
 
+![Desktop Preview](assests/preview.png)
 
-
-> 💡 *Make sure to replace the image paths with actual screenshots stored in a `preview/` folder.*
+> 💡 _Make sure to replace the image paths with actual screenshots stored in a `preview/` folder._
 
 ---
 
 ## ⚙️ Tech Stack
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- GSAP (GreenSock Animation Platform)  
+- HTML5
+- CSS3
+- JavaScript
+- GSAP (GreenSock Animation Platform)
 - Remix Icon
 
 ---
 
 ## 🚀 Features
 
-- Responsive design  
-- Animated hero section with fruits and Fanta bottle  
-- Interactive product cards for Sprite and Coca-Cola  
+- Responsive design
+- Animated hero section with fruits and Fanta bottle
+- Interactive product cards for Sprite and Coca-Cola
 - Smooth scroll-based animations using GSAP + ScrollTrigger
 
 ---
 
 ## 📂 Project Structure
+
 fanta-website/
 ├── assests/
 │ ├── orange.webp
@@ -58,15 +58,16 @@ fanta-website/
 ├── index.html
 └── README.md
 
-
 ## 💻 How to Run Locally
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/fanta-animated-website.git
    cd fanta-animated-website
 
 
    📣 Contact
-Made with 🍊 by Sahil Rathore
-📬 https://www.linkedin.com/in/sahil-rathore-5a555a203/
+   Made with 🍊 by Sahil Rathore
+   📬 https://www.linkedin.com/in/sahil-rathore-5a555a203/
+   ```
